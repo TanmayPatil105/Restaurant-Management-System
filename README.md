@@ -1,1 +1,1 @@
-Restaurant Management System implemented using Singly Linked Lists.
+Restaurant Management System implemented using singly linked lists.
